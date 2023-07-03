@@ -6,21 +6,29 @@
 //
 
 import SwiftUI
+import RealityKit
+import RealityKitContent
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        NavigationSplitView {
+            List {
+                Text("Item")
+            }
+            .navigationTitle("Sidebar")
+        } detail: {
+            VStack {
+                Model3D(named: "Scene", bundle: realityKitContentBundle)
+                    .padding(.bottom, 50)
+
+                Text("Hello, world!")
+            }
+            .navigationTitle("Content")
+            .padding()
         }
-        .padding()
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        ContentView()
-    }
+#Preview {
+    ContentView()
 }
