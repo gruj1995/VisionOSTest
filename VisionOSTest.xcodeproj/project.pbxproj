@@ -7,45 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8BA030992A52D18D00C9658A /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 8BA030982A52D18D00C9658A /* RealityKitContent */; };
-		8BA0309B2A52D18D00C9658A /* VisionOSTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA0309A2A52D18D00C9658A /* VisionOSTestApp.swift */; };
-		8BA0309D2A52D18D00C9658A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA0309C2A52D18D00C9658A /* ContentView.swift */; };
-		8BA0309F2A52D18E00C9658A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA0309E2A52D18E00C9658A /* Assets.xcassets */; };
-		8BA030A22A52D18E00C9658A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BA030A12A52D18E00C9658A /* Preview Assets.xcassets */; };
-		8BA030AC2A52D18E00C9658A /* VisionOSTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BA030AB2A52D18E00C9658A /* VisionOSTestTests.swift */; };
+		8BC75DA72A53A72E0066BAB5 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 8BC75DA62A53A72E0066BAB5 /* RealityKitContent */; };
+		8BC75DA92A53A72E0066BAB5 /* VisionOSTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC75DA82A53A72E0066BAB5 /* VisionOSTestApp.swift */; };
+		8BC75DAB2A53A72E0066BAB5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC75DAA2A53A72E0066BAB5 /* ContentView.swift */; };
+		8BC75DAD2A53A72F0066BAB5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BC75DAC2A53A72F0066BAB5 /* Assets.xcassets */; };
+		8BC75DB02A53A72F0066BAB5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BC75DAF2A53A72F0066BAB5 /* Preview Assets.xcassets */; };
+		8BC75DBA2A53A72F0066BAB5 /* VisionOSTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BC75DB92A53A72F0066BAB5 /* VisionOSTestTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		8BA030A82A52D18E00C9658A /* PBXContainerItemProxy */ = {
+		8BC75DB62A53A72F0066BAB5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 8BA0308B2A52D18D00C9658A /* Project object */;
+			containerPortal = 8BC75D992A53A72E0066BAB5 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8BA030922A52D18D00C9658A;
+			remoteGlobalIDString = 8BC75DA02A53A72E0066BAB5;
 			remoteInfo = VisionOSTest;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8BA030932A52D18D00C9658A /* VisionOSTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisionOSTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		8BA030972A52D18D00C9658A /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
-		8BA0309A2A52D18D00C9658A /* VisionOSTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionOSTestApp.swift; sourceTree = "<group>"; };
-		8BA0309C2A52D18D00C9658A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		8BA0309E2A52D18E00C9658A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8BA030A12A52D18E00C9658A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		8BA030A72A52D18E00C9658A /* VisionOSTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisionOSTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		8BA030AB2A52D18E00C9658A /* VisionOSTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionOSTestTests.swift; sourceTree = "<group>"; };
+		8BC75DA12A53A72E0066BAB5 /* VisionOSTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisionOSTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BC75DA52A53A72E0066BAB5 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
+		8BC75DA82A53A72E0066BAB5 /* VisionOSTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionOSTestApp.swift; sourceTree = "<group>"; };
+		8BC75DAA2A53A72E0066BAB5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8BC75DAC2A53A72F0066BAB5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8BC75DAF2A53A72F0066BAB5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8BC75DB52A53A72F0066BAB5 /* VisionOSTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisionOSTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BC75DB92A53A72F0066BAB5 /* VisionOSTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionOSTestTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		8BA030902A52D18D00C9658A /* Frameworks */ = {
+		8BC75D9E2A53A72E0066BAB5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BA030992A52D18D00C9658A /* RealityKitContent in Frameworks */,
+				8BC75DA72A53A72E0066BAB5 /* RealityKitContent in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8BA030A42A52D18E00C9658A /* Frameworks */ = {
+		8BC75DB22A53A72F0066BAB5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -55,56 +55,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		8BA0308A2A52D18D00C9658A = {
+		8BC75D982A53A72E0066BAB5 = {
 			isa = PBXGroup;
 			children = (
-				8BA030952A52D18D00C9658A /* VisionOSTest */,
-				8BA030962A52D18D00C9658A /* Packages */,
-				8BA030AA2A52D18E00C9658A /* VisionOSTestTests */,
-				8BA030942A52D18D00C9658A /* Products */,
+				8BC75DA32A53A72E0066BAB5 /* VisionOSTest */,
+				8BC75DA42A53A72E0066BAB5 /* Packages */,
+				8BC75DB82A53A72F0066BAB5 /* VisionOSTestTests */,
+				8BC75DA22A53A72E0066BAB5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		8BA030942A52D18D00C9658A /* Products */ = {
+		8BC75DA22A53A72E0066BAB5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8BA030932A52D18D00C9658A /* VisionOSTest.app */,
-				8BA030A72A52D18E00C9658A /* VisionOSTestTests.xctest */,
+				8BC75DA12A53A72E0066BAB5 /* VisionOSTest.app */,
+				8BC75DB52A53A72F0066BAB5 /* VisionOSTestTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8BA030952A52D18D00C9658A /* VisionOSTest */ = {
+		8BC75DA32A53A72E0066BAB5 /* VisionOSTest */ = {
 			isa = PBXGroup;
 			children = (
-				8BA0309A2A52D18D00C9658A /* VisionOSTestApp.swift */,
-				8BA0309C2A52D18D00C9658A /* ContentView.swift */,
-				8BA0309E2A52D18E00C9658A /* Assets.xcassets */,
-				8BA030A02A52D18E00C9658A /* Preview Content */,
+				8BC75DA82A53A72E0066BAB5 /* VisionOSTestApp.swift */,
+				8BC75DAA2A53A72E0066BAB5 /* ContentView.swift */,
+				8BC75DAC2A53A72F0066BAB5 /* Assets.xcassets */,
+				8BC75DAE2A53A72F0066BAB5 /* Preview Content */,
 			);
 			path = VisionOSTest;
 			sourceTree = "<group>";
 		};
-		8BA030962A52D18D00C9658A /* Packages */ = {
+		8BC75DA42A53A72E0066BAB5 /* Packages */ = {
 			isa = PBXGroup;
 			children = (
-				8BA030972A52D18D00C9658A /* RealityKitContent */,
+				8BC75DA52A53A72E0066BAB5 /* RealityKitContent */,
 			);
 			path = Packages;
 			sourceTree = "<group>";
 		};
-		8BA030A02A52D18E00C9658A /* Preview Content */ = {
+		8BC75DAE2A53A72F0066BAB5 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				8BA030A12A52D18E00C9658A /* Preview Assets.xcassets */,
+				8BC75DAF2A53A72F0066BAB5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		8BA030AA2A52D18E00C9658A /* VisionOSTestTests */ = {
+		8BC75DB82A53A72F0066BAB5 /* VisionOSTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				8BA030AB2A52D18E00C9658A /* VisionOSTestTests.swift */,
+				8BC75DB92A53A72F0066BAB5 /* VisionOSTestTests.swift */,
 			);
 			path = VisionOSTestTests;
 			sourceTree = "<group>";
@@ -112,13 +112,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8BA030922A52D18D00C9658A /* VisionOSTest */ = {
+		8BC75DA02A53A72E0066BAB5 /* VisionOSTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8BA030AF2A52D18E00C9658A /* Build configuration list for PBXNativeTarget "VisionOSTest" */;
+			buildConfigurationList = 8BC75DBD2A53A72F0066BAB5 /* Build configuration list for PBXNativeTarget "VisionOSTest" */;
 			buildPhases = (
-				8BA0308F2A52D18D00C9658A /* Sources */,
-				8BA030902A52D18D00C9658A /* Frameworks */,
-				8BA030912A52D18D00C9658A /* Resources */,
+				8BC75D9D2A53A72E0066BAB5 /* Sources */,
+				8BC75D9E2A53A72E0066BAB5 /* Frameworks */,
+				8BC75D9F2A53A72E0066BAB5 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -126,50 +126,50 @@
 			);
 			name = VisionOSTest;
 			packageProductDependencies = (
-				8BA030982A52D18D00C9658A /* RealityKitContent */,
+				8BC75DA62A53A72E0066BAB5 /* RealityKitContent */,
 			);
 			productName = VisionOSTest;
-			productReference = 8BA030932A52D18D00C9658A /* VisionOSTest.app */;
+			productReference = 8BC75DA12A53A72E0066BAB5 /* VisionOSTest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		8BA030A62A52D18E00C9658A /* VisionOSTestTests */ = {
+		8BC75DB42A53A72F0066BAB5 /* VisionOSTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8BA030B22A52D18E00C9658A /* Build configuration list for PBXNativeTarget "VisionOSTestTests" */;
+			buildConfigurationList = 8BC75DC02A53A72F0066BAB5 /* Build configuration list for PBXNativeTarget "VisionOSTestTests" */;
 			buildPhases = (
-				8BA030A32A52D18E00C9658A /* Sources */,
-				8BA030A42A52D18E00C9658A /* Frameworks */,
-				8BA030A52A52D18E00C9658A /* Resources */,
+				8BC75DB12A53A72F0066BAB5 /* Sources */,
+				8BC75DB22A53A72F0066BAB5 /* Frameworks */,
+				8BC75DB32A53A72F0066BAB5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				8BA030A92A52D18E00C9658A /* PBXTargetDependency */,
+				8BC75DB72A53A72F0066BAB5 /* PBXTargetDependency */,
 			);
 			name = VisionOSTestTests;
 			productName = VisionOSTestTests;
-			productReference = 8BA030A72A52D18E00C9658A /* VisionOSTestTests.xctest */;
+			productReference = 8BC75DB52A53A72F0066BAB5 /* VisionOSTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		8BA0308B2A52D18D00C9658A /* Project object */ = {
+		8BC75D992A53A72E0066BAB5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1500;
 				LastUpgradeCheck = 1500;
 				TargetAttributes = {
-					8BA030922A52D18D00C9658A = {
+					8BC75DA02A53A72E0066BAB5 = {
 						CreatedOnToolsVersion = 15.0;
 					};
-					8BA030A62A52D18E00C9658A = {
+					8BC75DB42A53A72F0066BAB5 = {
 						CreatedOnToolsVersion = 15.0;
-						TestTargetID = 8BA030922A52D18D00C9658A;
+						TestTargetID = 8BC75DA02A53A72E0066BAB5;
 					};
 				};
 			};
-			buildConfigurationList = 8BA0308E2A52D18D00C9658A /* Build configuration list for PBXProject "VisionOSTest" */;
+			buildConfigurationList = 8BC75D9C2A53A72E0066BAB5 /* Build configuration list for PBXProject "VisionOSTest" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -177,28 +177,28 @@
 				en,
 				Base,
 			);
-			mainGroup = 8BA0308A2A52D18D00C9658A;
-			productRefGroup = 8BA030942A52D18D00C9658A /* Products */;
+			mainGroup = 8BC75D982A53A72E0066BAB5;
+			productRefGroup = 8BC75DA22A53A72E0066BAB5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8BA030922A52D18D00C9658A /* VisionOSTest */,
-				8BA030A62A52D18E00C9658A /* VisionOSTestTests */,
+				8BC75DA02A53A72E0066BAB5 /* VisionOSTest */,
+				8BC75DB42A53A72F0066BAB5 /* VisionOSTestTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8BA030912A52D18D00C9658A /* Resources */ = {
+		8BC75D9F2A53A72E0066BAB5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BA030A22A52D18E00C9658A /* Preview Assets.xcassets in Resources */,
-				8BA0309F2A52D18E00C9658A /* Assets.xcassets in Resources */,
+				8BC75DB02A53A72F0066BAB5 /* Preview Assets.xcassets in Resources */,
+				8BC75DAD2A53A72F0066BAB5 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8BA030A52A52D18E00C9658A /* Resources */ = {
+		8BC75DB32A53A72F0066BAB5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -208,35 +208,35 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		8BA0308F2A52D18D00C9658A /* Sources */ = {
+		8BC75D9D2A53A72E0066BAB5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BA0309D2A52D18D00C9658A /* ContentView.swift in Sources */,
-				8BA0309B2A52D18D00C9658A /* VisionOSTestApp.swift in Sources */,
+				8BC75DAB2A53A72E0066BAB5 /* ContentView.swift in Sources */,
+				8BC75DA92A53A72E0066BAB5 /* VisionOSTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8BA030A32A52D18E00C9658A /* Sources */ = {
+		8BC75DB12A53A72F0066BAB5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8BA030AC2A52D18E00C9658A /* VisionOSTestTests.swift in Sources */,
+				8BC75DBA2A53A72F0066BAB5 /* VisionOSTestTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		8BA030A92A52D18E00C9658A /* PBXTargetDependency */ = {
+		8BC75DB72A53A72F0066BAB5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8BA030922A52D18D00C9658A /* VisionOSTest */;
-			targetProxy = 8BA030A82A52D18E00C9658A /* PBXContainerItemProxy */;
+			target = 8BC75DA02A53A72E0066BAB5 /* VisionOSTest */;
+			targetProxy = 8BC75DB62A53A72F0066BAB5 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		8BA030AD2A52D18E00C9658A /* Debug */ = {
+		8BC75DBB2A53A72F0066BAB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -299,7 +299,7 @@
 			};
 			name = Debug;
 		};
-		8BA030AE2A52D18E00C9658A /* Release */ = {
+		8BC75DBC2A53A72F0066BAB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -355,7 +355,7 @@
 			};
 			name = Release;
 		};
-		8BA030B02A52D18E00C9658A /* Debug */ = {
+		8BC75DBE2A53A72F0066BAB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -381,7 +381,7 @@
 			};
 			name = Debug;
 		};
-		8BA030B12A52D18E00C9658A /* Release */ = {
+		8BC75DBF2A53A72F0066BAB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -407,7 +407,7 @@
 			};
 			name = Release;
 		};
-		8BA030B32A52D18E00C9658A /* Debug */ = {
+		8BC75DC12A53A72F0066BAB5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -428,7 +428,7 @@
 			};
 			name = Debug;
 		};
-		8BA030B42A52D18E00C9658A /* Release */ = {
+		8BC75DC22A53A72F0066BAB5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -452,29 +452,29 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8BA0308E2A52D18D00C9658A /* Build configuration list for PBXProject "VisionOSTest" */ = {
+		8BC75D9C2A53A72E0066BAB5 /* Build configuration list for PBXProject "VisionOSTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8BA030AD2A52D18E00C9658A /* Debug */,
-				8BA030AE2A52D18E00C9658A /* Release */,
+				8BC75DBB2A53A72F0066BAB5 /* Debug */,
+				8BC75DBC2A53A72F0066BAB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8BA030AF2A52D18E00C9658A /* Build configuration list for PBXNativeTarget "VisionOSTest" */ = {
+		8BC75DBD2A53A72F0066BAB5 /* Build configuration list for PBXNativeTarget "VisionOSTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8BA030B02A52D18E00C9658A /* Debug */,
-				8BA030B12A52D18E00C9658A /* Release */,
+				8BC75DBE2A53A72F0066BAB5 /* Debug */,
+				8BC75DBF2A53A72F0066BAB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8BA030B22A52D18E00C9658A /* Build configuration list for PBXNativeTarget "VisionOSTestTests" */ = {
+		8BC75DC02A53A72F0066BAB5 /* Build configuration list for PBXNativeTarget "VisionOSTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8BA030B32A52D18E00C9658A /* Debug */,
-				8BA030B42A52D18E00C9658A /* Release */,
+				8BC75DC12A53A72F0066BAB5 /* Debug */,
+				8BC75DC22A53A72F0066BAB5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -482,11 +482,11 @@
 /* End XCConfigurationList section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		8BA030982A52D18D00C9658A /* RealityKitContent */ = {
+		8BC75DA62A53A72E0066BAB5 /* RealityKitContent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = RealityKitContent;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = 8BA0308B2A52D18D00C9658A /* Project object */;
+	rootObject = 8BC75D992A53A72E0066BAB5 /* Project object */;
 }
